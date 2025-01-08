@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kurumiddekezia/leetcode1/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/1370-count-number-of-nice-subarrays) |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kurumiddekezia/leetcode1/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Math
 |  |
 | ------- |
@@ -57,4 +58,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kurumiddekezia/leetcode1/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Two Pointers
+|  |
+| ------- |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kurumiddekezia/leetcode1/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+## Binary Search
+|  |
+| ------- |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kurumiddekezia/leetcode1/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
+## Enumeration
+|  |
+| ------- |
+| [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kurumiddekezia/leetcode1/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 <!---LeetCode Topics End-->

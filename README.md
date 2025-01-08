@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/kurumiddekezia/leetcode1/tree/master/0168-excel-sheet-column-title) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kurumiddekezia/leetcode1/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/1370-count-number-of-nice-subarrays) |
 ## Sorting
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0168-excel-sheet-column-title](https://github.com/kurumiddekezia/leetcode1/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/kurumiddekezia/leetcode1/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/kurumiddekezia/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kurumiddekezia/leetcode1/tree/master/3235-minimum-cost-to-convert-string-i) |

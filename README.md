@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kurumiddekezia/leetcode1/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0324-wiggle-sort-ii](https://github.com/kurumiddekezia/leetcode1/tree/master/0324-wiggle-sort-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kurumiddekezia/leetcode1/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0875-longest-mountain-in-array](https://github.com/kurumiddekezia/leetcode1/tree/master/0875-longest-mountain-in-array) |
 | [1036-rotting-oranges](https://github.com/kurumiddekezia/leetcode1/tree/master/1036-rotting-oranges) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/1370-count-number-of-nice-subarrays) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kurumiddekezia/leetcode1/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kurumiddekezia/leetcode1/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kurumiddekezia/leetcode1/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
+| [0875-longest-mountain-in-array](https://github.com/kurumiddekezia/leetcode1/tree/master/0875-longest-mountain-in-array) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kurumiddekezia/leetcode1/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Graph
 |  |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/kurumiddekezia/leetcode1/tree/master/0875-longest-mountain-in-array) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kurumiddekezia/leetcode1/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Search
 |  |
@@ -84,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0875-longest-mountain-in-array](https://github.com/kurumiddekezia/leetcode1/tree/master/0875-longest-mountain-in-array) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kurumiddekezia/leetcode1/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Divide and Conquer
 |  |

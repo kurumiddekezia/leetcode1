@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kurumiddekezia/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/1370-count-number-of-nice-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kurumiddekezia/leetcode1/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kurumiddekezia/leetcode1/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Sliding Window
 |  |
 | ------- |
@@ -114,10 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kurumiddekezia/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kurumiddekezia/leetcode1/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Counting
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kurumiddekezia/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kurumiddekezia/leetcode1/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -130,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/kurumiddekezia/leetcode1/tree/master/2628-minimize-the-maximum-of-two-arrays) |
+## Design
+|  |
+| ------- |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kurumiddekezia/leetcode1/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kurumiddekezia/leetcode1/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 <!---LeetCode Topics End-->

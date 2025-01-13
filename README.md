@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kurumiddekezia/leetcode1/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kurumiddekezia/leetcode1/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0324-wiggle-sort-ii](https://github.com/kurumiddekezia/leetcode1/tree/master/0324-wiggle-sort-ii) |
+| [0455-assign-cookies](https://github.com/kurumiddekezia/leetcode1/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kurumiddekezia/leetcode1/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0875-longest-mountain-in-array](https://github.com/kurumiddekezia/leetcode1/tree/master/0875-longest-mountain-in-array) |
 | [1036-rotting-oranges](https://github.com/kurumiddekezia/leetcode1/tree/master/1036-rotting-oranges) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/kurumiddekezia/leetcode1/tree/master/0324-wiggle-sort-ii) |
+| [0455-assign-cookies](https://github.com/kurumiddekezia/leetcode1/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kurumiddekezia/leetcode1/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Hash Table
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/kurumiddekezia/leetcode1/tree/master/0455-assign-cookies) |
 | [0875-longest-mountain-in-array](https://github.com/kurumiddekezia/leetcode1/tree/master/0875-longest-mountain-in-array) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kurumiddekezia/leetcode1/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Binary Search
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/kurumiddekezia/leetcode1/tree/master/0324-wiggle-sort-ii) |
+| [0455-assign-cookies](https://github.com/kurumiddekezia/leetcode1/tree/master/0455-assign-cookies) |
 ## Quickselect
 |  |
 | ------- |

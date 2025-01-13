@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0168-excel-sheet-column-title](https://github.com/kurumiddekezia/leetcode1/tree/master/0168-excel-sheet-column-title) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kurumiddekezia/leetcode1/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0913-random-flip-matrix](https://github.com/kurumiddekezia/leetcode1/tree/master/0913-random-flip-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/1370-count-number-of-nice-subarrays) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/kurumiddekezia/leetcode1/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 ## Sorting
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kurumiddekezia/leetcode1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0187-repeated-dna-sequences](https://github.com/kurumiddekezia/leetcode1/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/kurumiddekezia/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
+| [0913-random-flip-matrix](https://github.com/kurumiddekezia/leetcode1/tree/master/0913-random-flip-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/1370-count-number-of-nice-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kurumiddekezia/leetcode1/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kurumiddekezia/leetcode1/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
@@ -147,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kurumiddekezia/leetcode1/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0913-random-flip-matrix](https://github.com/kurumiddekezia/leetcode1/tree/master/0913-random-flip-matrix) |
+## Randomized
+|  |
+| ------- |
+| [0913-random-flip-matrix](https://github.com/kurumiddekezia/leetcode1/tree/master/0913-random-flip-matrix) |
 <!---LeetCode Topics End-->

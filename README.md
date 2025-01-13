@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kurumiddekezia/leetcode1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0187-repeated-dna-sequences](https://github.com/kurumiddekezia/leetcode1/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/kurumiddekezia/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/1370-count-number-of-nice-subarrays) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kurumiddekezia/leetcode1/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0168-excel-sheet-column-title](https://github.com/kurumiddekezia/leetcode1/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/kurumiddekezia/leetcode1/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/kurumiddekezia/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
@@ -141,4 +143,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kurumiddekezia/leetcode1/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/kurumiddekezia/leetcode1/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->

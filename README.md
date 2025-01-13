@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/kurumiddekezia/leetcode1/tree/master/0168-excel-sheet-column-title) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kurumiddekezia/leetcode1/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/1370-count-number-of-nice-subarrays) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/kurumiddekezia/leetcode1/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/kurumiddekezia/leetcode1/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kurumiddekezia/leetcode1/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Enumeration
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1036-rotting-oranges](https://github.com/kurumiddekezia/leetcode1/tree/master/1036-rotting-oranges) |
+## Number Theory
+|  |
+| ------- |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/kurumiddekezia/leetcode1/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 <!---LeetCode Topics End-->

@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kurumiddekezia/leetcode1/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0913-random-flip-matrix](https://github.com/kurumiddekezia/leetcode1/tree/master/0913-random-flip-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/1370-count-number-of-nice-subarrays) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/kurumiddekezia/leetcode1/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/kurumiddekezia/leetcode1/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 ## Sorting
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kurumiddekezia/leetcode1/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0875-longest-mountain-in-array](https://github.com/kurumiddekezia/leetcode1/tree/master/0875-longest-mountain-in-array) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kurumiddekezia/leetcode1/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/kurumiddekezia/leetcode1/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 ## Graph
 |  |
 | ------- |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0913-random-flip-matrix](https://github.com/kurumiddekezia/leetcode1/tree/master/0913-random-flip-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/kurumiddekezia/leetcode1/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
 <!---LeetCode Topics End-->

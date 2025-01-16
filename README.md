@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1036-rotting-oranges](https://github.com/kurumiddekezia/leetcode1/tree/master/1036-rotting-oranges) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/1370-count-number-of-nice-subarrays) |
 | [1876-map-of-highest-peak](https://github.com/kurumiddekezia/leetcode1/tree/master/1876-map-of-highest-peak) |
+| [2339-k-divisible-elements-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/2339-k-divisible-elements-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kurumiddekezia/leetcode1/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kurumiddekezia/leetcode1/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kurumiddekezia/leetcode1/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kurumiddekezia/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [0913-random-flip-matrix](https://github.com/kurumiddekezia/leetcode1/tree/master/0913-random-flip-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/1370-count-number-of-nice-subarrays) |
+| [2339-k-divisible-elements-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/2339-k-divisible-elements-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/kurumiddekezia/leetcode1/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kurumiddekezia/leetcode1/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Sliding Window
@@ -67,10 +69,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kurumiddekezia/leetcode1/tree/master/0187-repeated-dna-sequences) |
+| [2339-k-divisible-elements-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/2339-k-divisible-elements-subarrays) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/kurumiddekezia/leetcode1/tree/master/0187-repeated-dna-sequences) |
+| [2339-k-divisible-elements-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/2339-k-divisible-elements-subarrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -104,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0875-longest-mountain-in-array](https://github.com/kurumiddekezia/leetcode1/tree/master/0875-longest-mountain-in-array) |
+| [2339-k-divisible-elements-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/2339-k-divisible-elements-subarrays) |
 | [3252-count-the-number-of-incremovable-subarrays-i](https://github.com/kurumiddekezia/leetcode1/tree/master/3252-count-the-number-of-incremovable-subarrays-i) |
 ## Divide and Conquer
 |  |
@@ -166,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2477-number-of-ways-to-reach-a-position-after-exactly-k-steps](https://github.com/kurumiddekezia/leetcode1/tree/master/2477-number-of-ways-to-reach-a-position-after-exactly-k-steps) |
+## Trie
+|  |
+| ------- |
+| [2339-k-divisible-elements-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/2339-k-divisible-elements-subarrays) |
 <!---LeetCode Topics End-->

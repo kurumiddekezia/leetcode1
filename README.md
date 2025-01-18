@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kurumiddekezia/leetcode1/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/kurumiddekezia/leetcode1/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kurumiddekezia/leetcode1/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0324-wiggle-sort-ii](https://github.com/kurumiddekezia/leetcode1/tree/master/0324-wiggle-sort-ii) |
 | [0455-assign-cookies](https://github.com/kurumiddekezia/leetcode1/tree/master/0455-assign-cookies) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kurumiddekezia/leetcode1/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/kurumiddekezia/leetcode1/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/kurumiddekezia/leetcode1/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/kurumiddekezia/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [0913-random-flip-matrix](https://github.com/kurumiddekezia/leetcode1/tree/master/0913-random-flip-matrix) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/kurumiddekezia/leetcode1/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0139-word-break](https://github.com/kurumiddekezia/leetcode1/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/kurumiddekezia/leetcode1/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/kurumiddekezia/leetcode1/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/kurumiddekezia/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/kurumiddekezia/leetcode1/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/kurumiddekezia/leetcode1/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/kurumiddekezia/leetcode1/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0875-longest-mountain-in-array](https://github.com/kurumiddekezia/leetcode1/tree/master/0875-longest-mountain-in-array) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/kurumiddekezia/leetcode1/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
@@ -178,5 +182,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/kurumiddekezia/leetcode1/tree/master/0139-word-break) |
 | [2339-k-divisible-elements-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/2339-k-divisible-elements-subarrays) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/kurumiddekezia/leetcode1/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

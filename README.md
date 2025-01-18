@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kurumiddekezia/leetcode1/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/kurumiddekezia/leetcode1/tree/master/0168-excel-sheet-column-title) |
 | [0187-repeated-dna-sequences](https://github.com/kurumiddekezia/leetcode1/tree/master/0187-repeated-dna-sequences) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kurumiddekezia/leetcode1/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/kurumiddekezia/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
 | [3202-high-access-employees](https://github.com/kurumiddekezia/leetcode1/tree/master/3202-high-access-employees) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kurumiddekezia/leetcode1/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -188,4 +189,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/kurumiddekezia/leetcode1/tree/master/0139-word-break) |
+## Stack
+|  |
+| ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kurumiddekezia/leetcode1/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+## Tree
+|  |
+| ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kurumiddekezia/leetcode1/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kurumiddekezia/leetcode1/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 <!---LeetCode Topics End-->

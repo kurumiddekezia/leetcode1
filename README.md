@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0324-wiggle-sort-ii](https://github.com/kurumiddekezia/leetcode1/tree/master/0324-wiggle-sort-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/kurumiddekezia/leetcode1/tree/master/0451-sort-characters-by-frequency) |
 | [0455-assign-cookies](https://github.com/kurumiddekezia/leetcode1/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/kurumiddekezia/leetcode1/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0692-top-k-frequent-words](https://github.com/kurumiddekezia/leetcode1/tree/master/0692-top-k-frequent-words) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/kurumiddekezia/leetcode1/tree/master/0139-word-break) |
 | [0187-repeated-dna-sequences](https://github.com/kurumiddekezia/leetcode1/tree/master/0187-repeated-dna-sequences) |
 | [0387-first-unique-character-in-a-string](https://github.com/kurumiddekezia/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/kurumiddekezia/leetcode1/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/kurumiddekezia/leetcode1/tree/master/0692-top-k-frequent-words) |
 | [0913-random-flip-matrix](https://github.com/kurumiddekezia/leetcode1/tree/master/0913-random-flip-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/kurumiddekezia/leetcode1/tree/master/1370-count-number-of-nice-subarrays) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/kurumiddekezia/leetcode1/tree/master/0187-repeated-dna-sequences) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/kurumiddekezia/leetcode1/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0387-first-unique-character-in-a-string](https://github.com/kurumiddekezia/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/kurumiddekezia/leetcode1/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/kurumiddekezia/leetcode1/tree/master/0692-top-k-frequent-words) |
 | [3202-high-access-employees](https://github.com/kurumiddekezia/leetcode1/tree/master/3202-high-access-employees) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/kurumiddekezia/leetcode1/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/kurumiddekezia/leetcode1/tree/master/0387-first-unique-character-in-a-string) |
+| [0451-sort-characters-by-frequency](https://github.com/kurumiddekezia/leetcode1/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/kurumiddekezia/leetcode1/tree/master/0692-top-k-frequent-words) |
 | [2620-find-consecutive-integers-from-a-data-stream](https://github.com/kurumiddekezia/leetcode1/tree/master/2620-find-consecutive-integers-from-a-data-stream) |
 ## Breadth-First Search
@@ -212,10 +216,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kurumiddekezia/leetcode1/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/kurumiddekezia/leetcode1/tree/master/0692-top-k-frequent-words) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/kurumiddekezia/leetcode1/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/kurumiddekezia/leetcode1/tree/master/0692-top-k-frequent-words) |
 ## Depth-First Search
 |  |
